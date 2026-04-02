@@ -3,5 +3,7 @@
 a=5
 b=3
 x=$((a + b))
-echo "Result: $x"
+y= $((a-b))
+echo "addition: $x"
+echo "subraction: $y"
  
